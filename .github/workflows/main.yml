@@ -2,9 +2,7 @@ name: Scrape Prime Video Live TV Guide
 
 on:
   schedule:
-    # Har 6 ghante baad auto-run hoga (UTC)
     - cron: '0 */6 * * *'
-  # GitHub Actions tab se manually run karne ke liye
   workflow_dispatch:
 
 jobs:
@@ -22,7 +20,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install Python Dependencies
         run: |
@@ -44,7 +41,6 @@ jobs:
           
           git add prime_livetv.json
           
-          # Sirf tab commit karega jab data mein koi update hoga
           if git diff --staged --quiet; then
             echo "No new updates found. Skipping commit."
           else
