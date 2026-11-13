@@ -1,97 +1,665 @@
 {
-    "name": "Prime Video Live TV Guide",
-    "last_update_time": "06:41:19 PM 13-11-2026",
+    "name": "Prime Video India Live TV Guide",
+    "region": "IN",
+    "last_update_time": "06:52:43 PM 13-11-2026",
     "events": [
         {
-            "title": "Holiday Hits and Festivities",
-            "details": "currently airing, at 11 minutes of 120 minutes of content play time, | Watch Live | 1hr 48min left | Holiday Hits and Festivities | ALL",
+            "title": "5th ODI - 15 Nov 2026",
+            "details": "5th ODI - 15 Nov 2026 | UPCOMING | 5th ODI - 15 Nov 2026 | Sun, Nov 15 6 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080.jpeg",
+            "url": "https://www.primevideo.com/region/eu/detail/0HWAWZW8U02W5Z12JYXEFW0XZ1"
+        },
+        {
+            "title": "5th ODI - 15 Nov 2026",
+            "details": "5th ODI - 15 Nov 2026",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0HWAWZW8U02W5Z12JYXEFW0XZ1"
+        },
+        {
+            "title": "Kaun Banega Crorepati",
+            "details": "Kaun Banega Crorepati | UPCOMING | Kaun Banega Crorepati | Live at 8:30 PM IST",
             "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/A1yAqClYxKL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37670520-f24d-4119-9caf-99d7adb89e7a/1/BOXART-16X9/en-US._UR1920,1080.jpeg",
+            "url": "https://www.primevideo.com/region/eu/detail/0IFORM3LOZRBDETAU0O1BXYRUI"
+        },
+        {
+            "title": "Kaun Banega Crorepati",
+            "details": "Kaun Banega Crorepati",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0IFORM3LOZRBDETAU0O1BXYRUI"
+        },
+        {
+            "title": "Kon Honaar Crorepati",
+            "details": "Kon Honaar Crorepati | UPCOMING | Kon Honaar Crorepati | Live at 8:30 PM IST",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49d71941-eb80-4d6e-b37d-554ae876436d/1/BOXART-16X9/en-US._UR1920,1080.jpeg",
+            "url": "https://www.primevideo.com/region/eu/detail/0JIZFKGDA9TIYRKLTWOD99PBHP"
+        },
+        {
+            "title": "Kon Honaar Crorepati",
+            "details": "Kon Honaar Crorepati",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0JIZFKGDA9TIYRKLTWOD99PBHP"
+        },
+        {
+            "title": "Moldova vs. Kazakhstan",
+            "details": "Moldova vs. Kazakhstan | UPCOMING | Moldova vs. Kazakhstan | Live at 10:20 PM IST",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.445e2083-b274-408c-81ef-f038571df10d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0J7BJL4LMBX3GR9JZ5GYALSDN1"
+        },
+        {
+            "title": "Moldova vs. Kazakhstan",
+            "details": "Moldova vs. Kazakhstan",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0J7BJL4LMBX3GR9JZ5GYALSDN1"
+        },
+        {
+            "title": "Netherlands vs. Greece",
+            "details": "Netherlands vs. Greece | UPCOMING | Netherlands vs. Greece | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27e0fd01-3fb2-47f1-92ce-c02298f73c99/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0HILP8K7QZDWFJJ1FRWG9AA36H"
+        },
+        {
+            "title": "Netherlands vs. Greece",
+            "details": "Netherlands vs. Greece",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0HILP8K7QZDWFJJ1FRWG9AA36H"
+        },
+        {
+            "title": "Serbia vs. Germany",
+            "details": "Serbia vs. Germany | UPCOMING | Serbia vs. Germany | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.65b84292-2844-498b-a6c3-f6517ed61524/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0L6EIZ7ASTS10NH3XD5AZ53PK4"
+        },
+        {
+            "title": "Serbia vs. Germany",
+            "details": "Serbia vs. Germany",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0L6EIZ7ASTS10NH3XD5AZ53PK4"
+        },
+        {
+            "title": "Liechtenstein vs. Azerbaijan",
+            "details": "Liechtenstein vs. Azerbaijan | UPCOMING | Liechtenstein vs. Azerbaijan | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d010a71-6e01-48bf-a696-d2fe1243e750/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0NI4O16AL2EIQFOLMALEGTPOWG"
+        },
+        {
+            "title": "Liechtenstein vs. Azerbaijan",
+            "details": "Liechtenstein vs. Azerbaijan",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0NI4O16AL2EIQFOLMALEGTPOWG"
+        },
+        {
+            "title": "Luxembourg vs. Estonia",
+            "details": "Luxembourg vs. Estonia | UPCOMING | Luxembourg vs. Estonia | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9890f906-0f85-437f-a4b4-5adbdc8e9a03/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0O6RSMWCL28FIGISE91VOFHPFN"
+        },
+        {
+            "title": "Luxembourg vs. Estonia",
+            "details": "Luxembourg vs. Estonia",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0O6RSMWCL28FIGISE91VOFHPFN"
+        },
+        {
+            "title": "Scotland vs. North Macedonia",
+            "details": "Scotland vs. North Macedonia | UPCOMING | Scotland vs. North Macedonia | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3de2b9d-c54c-4721-9c1a-7ff482bad5bb/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0OUUX77A4KCYBXPDZMD894NLQ3"
+        },
+        {
+            "title": "Scotland vs. North Macedonia",
+            "details": "Scotland vs. North Macedonia",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0OUUX77A4KCYBXPDZMD894NLQ3"
+        },
+        {
+            "title": "Slovakia vs. Faroe Islands",
+            "details": "Slovakia vs. Faroe Islands | UPCOMING | Slovakia vs. Faroe Islands | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a55ca485-1f6c-4afb-a23b-c5d302d1f9b0/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0OY1JXSJK99VPF62TX1M40CCDS"
+        },
+        {
+            "title": "Slovakia vs. Faroe Islands",
+            "details": "Slovakia vs. Faroe Islands",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0OY1JXSJK99VPF62TX1M40CCDS"
+        },
+        {
+            "title": "Slovenia vs. Switzerland",
+            "details": "Slovenia vs. Switzerland | UPCOMING | Slovenia vs. Switzerland | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b03bd55d-be33-46cd-839c-fa6a60a5382d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0PL7PKGUH8I8GB3RVI1A3BBY25"
+        },
+        {
+            "title": "Slovenia vs. Switzerland",
+            "details": "Slovenia vs. Switzerland",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0PL7PKGUH8I8GB3RVI1A3BBY25"
+        },
+        {
+            "title": "Andorra vs. Gibraltar",
+            "details": "Andorra vs. Gibraltar | UPCOMING | Andorra vs. Gibraltar | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7196474-4823-4e67-93f5-db52f149b843/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0RW1PQL1DO2OJA7PJ6VFOLPWZN"
+        },
+        {
+            "title": "Andorra vs. Gibraltar",
+            "details": "Andorra vs. Gibraltar",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0RW1PQL1DO2OJA7PJ6VFOLPWZN"
+        },
+        {
+            "title": "Bulgaria vs. Iceland",
+            "details": "Bulgaria vs. Iceland | UPCOMING | Bulgaria vs. Iceland | Tomorrow 1:05 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8578b2f-910c-4ba0-8bea-5ca1ac1dd1d0/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_SX624_FMpng_.png",
+            "url": "https://www.primevideo.com/region/eu/detail/0RYP2H5UVRII5LMZEBWWVCR9OW"
+        },
+        {
+            "title": "Bulgaria vs. Iceland",
+            "details": "Bulgaria vs. Iceland",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0RYP2H5UVRII5LMZEBWWVCR9OW"
+        },
+        {
+            "title": "Go Jetters",
+            "details": "currently airing, at 9 minutes of 10 minutes of content play time, | 1 min left | Go Jetters | Go Jet Academy: Compass Navigators",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/71+cMnWCLiL._UR1920,1080_FMpng.jpg",
             "url": ""
         },
         {
-            "title": "Giada's Holiday Handbook",
-            "details": "currently airing, at 21 minutes of 25 minutes of content play time, | Watch Live | 4 min left | Giada's Holiday Handbook | Christmas Sing-Along | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/A1KeytKkPFL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "1:25 PM",
+            "details": "1:25 PM | Go Jetters | Nomads, Mongolia",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "America's Test Kitchen",
-            "details": "currently airing, at 13 minutes of 30 minutes of content play time, | Watch Live | 16 min left | America's Test Kitchen | Hearty Alpine Fare | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/A13CL92LeoL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "1:40 PM",
+            "details": "1:40 PM | Thomas & Friends | Thomas and the Forest Engines",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "Martha Bakes",
-            "details": "currently airing, at 12 minutes of 34 minutes of content play time, | Watch Live | 21 min left | Martha Bakes | Embellished Pies | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/A1fAsguYD+L._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "1:50 PM",
+            "details": "1:50 PM | Nikhil and Jay | Nikhil and Jay and the Alien Elephant",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "K-Beauty Gift Guide with Charlotte Cho",
-            "details": "currently airing, at 2 minutes of 35 minutes of content play time, | Watch Live | 32 min left | K-Beauty Gift Guide with Charlotte Cho | 13+",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/71XOwXqwPkL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "1:57 PM",
+            "details": "1:57 PM | Sarah & Duck | Donkey Jump",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "Fri-YAY! Fashion Deals With Leah Williams",
-            "details": "currently airing, at 71 minutes of 120 minutes of content play time, | Watch Live | 48 min left | Fri-YAY! Fashion Deals With Leah Williams | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/91YsyAdMGmL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:05 PM",
+            "details": "2:05 PM | Stan Can | Detective",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "Shopping",
-            "details": "currently airing, at 11 minutes of 180 minutes of content play time, | Watch Live | 2hr 48min left | Shopping | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/81DZH6zoLuL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:11 PM",
+            "details": "2:11 PM | Stan Can | First Aid",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "Wake-Up! with Kimberly",
-            "details": "currently airing, at 11 minutes of 60 minutes of content play time, | Watch Live | 48 min left | Wake-Up! with Kimberly | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/91ucoKFaQML._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:20 PM",
+            "details": "2:20 PM | Funny Talking Animals | No Kissing in School",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "Blessed Day Melodies",
-            "details": "currently airing, at 11 minutes of 240 minutes of content play time, | Watch Live | 3hr 48min left | Blessed Day Melodies | 7+",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/81KdwjDKgtL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
-            "url": "https://www.primevideo.com/auth-redirect"
-        },
-        {
-            "title": "Morning Rejoice",
-            "details": "currently airing, at 11 minutes of 240 minutes of content play time, | Watch Live | 3hr 48min left | Morning Rejoice | 7+",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/81qHj+u3+uL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
-            "url": "https://www.primevideo.com/auth-redirect"
-        },
-        {
-            "title": "Joel Osteen Weekly",
-            "details": "currently airing, at 16 minutes of 31 minutes of content play time, | Watch Live | 15 min left | Joel Osteen Weekly | Unshakeable Faith | 7+",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/81ELkILhaGL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:25 PM",
+            "details": "2:25 PM | JoJo & Gran Gran | Autumn: It's Time for Halloween",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "In Touch with Charles Stanley",
-            "details": "currently airing, at 1 minutes of 66 minutes of content play time, | Watch Live | 1hr 5min left | In Touch with Charles Stanley | ALL",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/91XPmSGMcKL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:38 PM",
+            "details": "2:38 PM | Bluey | TV Shop",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
         },
         {
-            "title": "From the Pulpit",
-            "details": "currently airing, at 28 minutes of 55 minutes of content play time, | Watch Live | 26 min left | From the Pulpit | The Power Of A Place | 7+",
-            "status": "LIVE",
-            "poster": "https://m.media-amazon.com/images/I/91Rv-16EDML._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "title": "2:45 PM",
+            "details": "2:45 PM | Bluey | Slide",
+            "status": "UPCOMING",
+            "poster": "",
             "url": ""
+        },
+        {
+            "title": "2:50 PM",
+            "details": "2:50 PM | Bluey | Cricket",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:00 PM",
+            "details": "3:00 PM | Hey Duggee | The Voice Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:07 PM",
+            "details": "3:07 PM | Hey Duggee | The Stick Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:14 PM",
+            "details": "3:14 PM | Hey Duggee's Squirrel Club | Campfire Choir",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:20 PM",
+            "details": "3:20 PM | My Friend Maisy | Kittens",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:25 PM",
+            "details": "3:25 PM | My Friend Maisy | Bus Ride",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:30 PM",
+            "details": "3:30 PM | Roots and Fruits | Pepper",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:35 PM",
+            "details": "3:35 PM | Roots and Fruits | Peas",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:45 PM",
+            "details": "3:45 PM | Supertato | Trouble Bubbles",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "3:52 PM",
+            "details": "3:52 PM | Supertato | Not So Supertato",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:00 PM",
+            "details": "4:00 PM | Teletubbies | Where? There!",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:10 PM",
+            "details": "4:10 PM | Yakka Dee | Scooter",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:15 PM",
+            "details": "4:15 PM | Messy Goes to OKIDO | OKIDO in Bloom",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:25 PM",
+            "details": "4:25 PM | Mojo Swoptops | Piggy in the Riddle",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:40 PM",
+            "details": "4:40 PM | Bluey | Promises",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:47 PM",
+            "details": "4:47 PM | Bluey | Obstacle Course",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:00 PM",
+            "details": "5:00 PM | Hey Duggee | The Midnight Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:07 PM",
+            "details": "5:07 PM | Hey Duggee | The Laughter Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:15 PM",
+            "details": "5:15 PM | Hey Duggee's Squirrel Club | Ready Or Not",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:22 PM",
+            "details": "5:22 PM | Hey Duggee's Squirrel Club | Stick Together",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:30 PM",
+            "details": "5:30 PM | Go Jetters | Go Jet Academy: Ghost Crabs",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:45 PM",
+            "details": "5:45 PM | Bluey | Copycat",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "5:52 PM",
+            "details": "5:52 PM | Bluey | Hammerbarn",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "6:00 PM",
+            "details": "6:00 PM | Bluey | Explorers",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "6:07 PM",
+            "details": "6:07 PM | Bluey | Phones",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "6:15 PM",
+            "details": "6:15 PM | Andy's Dino Island | Andy and the Hungry Dinosaurs",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "6:30 PM",
+            "details": "6:30 PM | Playtime Towers | Boots",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "6:55 PM",
+            "details": "6:55 PM | Hey Duggee | The Going Slow Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:02 PM",
+            "details": "7:02 PM | Hey Duggee | The Memory Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:09 PM",
+            "details": "7:09 PM | Hey Duggee | The Theatre Badge",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:15 PM",
+            "details": "7:15 PM | Go Jetters | Go Jet Academy: Compass Navigators",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:25 PM",
+            "details": "7:25 PM | Go Jetters | Nomads, Mongolia",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:40 PM",
+            "details": "7:40 PM | Thomas & Friends | Thomas and the Forest Engines",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:50 PM",
+            "details": "7:50 PM | Nikhil and Jay | Nikhil and Jay and the Alien Elephant",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "7:57 PM",
+            "details": "7:57 PM | Sarah & Duck | Donkey Jump",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:05 PM",
+            "details": "8:05 PM | Stan Can | Detective",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:11 PM",
+            "details": "8:11 PM | Stan Can | First Aid",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:20 PM",
+            "details": "8:20 PM | Funny Talking Animals | No Kissing in School",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:25 PM",
+            "details": "8:25 PM | JoJo & Gran Gran | Autumn: It's Time for Halloween",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:38 PM",
+            "details": "8:38 PM | Bluey | TV Shop",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:45 PM",
+            "details": "8:45 PM | Bluey | Slide",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "Best of the T20s",
+            "details": "currently airing, at 24 minutes of 30 minutes of content play time, | 6 min left | Best of the T20s | Afghanistan tour of Ireland",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/B1DmoSgZLLL._UR1920,1080_FMpng.jpg",
+            "url": ""
+        },
+        {
+            "title": "1:30 PM",
+            "details": "1:30 PM | Best of the T20s | Afghanistan tour of Ireland",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "2:00 PM",
+            "details": "2:00 PM | Best of the ODIs | Afghanistan tour of Ireland",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "2:30 PM",
+            "details": "2:30 PM | Best of Carabao Cup 2024-25",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "4:30 PM",
+            "details": "4:30 PM | Best of the T20s | Afghanistan tour of Zimbabwe 2024-25",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "Nattu Vartha",
+            "details": "currently airing, at 24 minutes of 30 minutes of content play time, | 6 min left | Nattu Vartha",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/A1yTB6EIpzL._UR1920,1080_FMpng.jpg",
+            "url": ""
+        },
+        {
+            "title": "8:30 PM",
+            "details": "8:30 PM | Kuttapathram",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "The Association: Post Up\n(",
+            "details": "currently airing, at 24 minutes of 30 minutes of content play time, | 6 min left | The Association: Post Up (",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/51UBiSHAxaL._UR1920,1080_FMpng.jpg",
+            "url": ""
+        },
+        {
+            "title": "7:00 PM",
+            "details": "7:00 PM | NBA Shot Clock: Games of the Night",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "8:00 PM",
+            "details": "8:00 PM | Inside Practice S2 Eps. 6 Miami Heat",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": ""
+        },
+        {
+            "title": "1st ODI: Australia vs. England",
+            "details": "1st ODI: Australia vs. England | LIVE | 1st ODI: Australia vs. England",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f0874dd-1671-49e6-9d9e-f933fba99d64/3/BOXART-16X9/en-IN._UR1920,1080.jpeg",
+            "url": "https://www.primevideo.com/region/eu/detail/0LQ93LO1VCWQXICBQ8YTPA8FAC"
+        },
+        {
+            "title": "1st ODI: Australia vs. England",
+            "details": "1st ODI: Australia vs. England",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0LQ93LO1VCWQXICBQ8YTPA8FAC"
+        },
+        {
+            "title": "New South Wales vs. South Australia",
+            "details": "New South Wales vs. South Australia | UPCOMING | New South Wales vs. South Australia | Tomorrow 5 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3d24077-59ef-4a89-af61-7b645afce555/2/BOXART-16X9/en-IN/288x91._UR1920,1080.jpg",
+            "url": "https://www.primevideo.com/region/eu/detail/0TL9GGAJ887A057FNNU58G5H05"
+        },
+        {
+            "title": "New South Wales vs. South Australia",
+            "details": "New South Wales vs. South Australia",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0TL9GGAJ887A057FNNU58G5H05"
+        },
+        {
+            "title": "Hobart Hurricanes vs. Brisbane Heat",
+            "details": "Hobart Hurricanes vs. Brisbane Heat | UPCOMING | Hobart Hurricanes vs. Brisbane Heat | Tomorrow 10:10 AM IST",
+            "status": "UPCOMING",
+            "poster": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b29b8126-34fb-4883-8b04-b120c489e5b8/3/BOXART-16X9/en-IN._UR1920,1080.jpeg",
+            "url": "https://www.primevideo.com/region/eu/detail/0PQ9U4CLXNF24EAJYLUFGSAOC8"
+        },
+        {
+            "title": "Hobart Hurricanes vs. Brisbane Heat",
+            "details": "Hobart Hurricanes vs. Brisbane Heat",
+            "status": "UPCOMING",
+            "poster": "",
+            "url": "https://www.primevideo.com/region/eu/detail/0PQ9U4CLXNF24EAJYLUFGSAOC8"
         }
     ]
 }
