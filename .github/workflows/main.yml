@@ -1,8 +1,10 @@
-name: Scrape Prime Video Live TV Guide
+name: Scrape Prime Video India Live TV Guide
 
 on:
   schedule:
+    # Har 6 ghante baad auto-run hoga (UTC)
     - cron: '0 */6 * * *'
+  # GitHub Actions tab se manually run karne ke liye
   workflow_dispatch:
 
 jobs:
@@ -44,7 +46,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new updates found. Skipping commit."
           else
-            git commit -m "chore: update prime video livetv guide [skip ci]"
+            git commit -m "chore: update prime video india livetv guide [skip ci]"
             git push
           fi
           
