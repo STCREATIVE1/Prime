@@ -1,0 +1,97 @@
+{
+    "name": "Prime Video Live TV Guide",
+    "last_update_time": "06:41:19 PM 13-11-2026",
+    "events": [
+        {
+            "title": "Holiday Hits and Festivities",
+            "details": "currently airing, at 11 minutes of 120 minutes of content play time, | Watch Live | 1hr 48min left | Holiday Hits and Festivities | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/A1yAqClYxKL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Giada's Holiday Handbook",
+            "details": "currently airing, at 21 minutes of 25 minutes of content play time, | Watch Live | 4 min left | Giada's Holiday Handbook | Christmas Sing-Along | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/A1KeytKkPFL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "America's Test Kitchen",
+            "details": "currently airing, at 13 minutes of 30 minutes of content play time, | Watch Live | 16 min left | America's Test Kitchen | Hearty Alpine Fare | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/A13CL92LeoL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Martha Bakes",
+            "details": "currently airing, at 12 minutes of 34 minutes of content play time, | Watch Live | 21 min left | Martha Bakes | Embellished Pies | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/A1fAsguYD+L._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "K-Beauty Gift Guide with Charlotte Cho",
+            "details": "currently airing, at 2 minutes of 35 minutes of content play time, | Watch Live | 32 min left | K-Beauty Gift Guide with Charlotte Cho | 13+",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/71XOwXqwPkL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Fri-YAY! Fashion Deals With Leah Williams",
+            "details": "currently airing, at 71 minutes of 120 minutes of content play time, | Watch Live | 48 min left | Fri-YAY! Fashion Deals With Leah Williams | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/91YsyAdMGmL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Shopping",
+            "details": "currently airing, at 11 minutes of 180 minutes of content play time, | Watch Live | 2hr 48min left | Shopping | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/81DZH6zoLuL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Wake-Up! with Kimberly",
+            "details": "currently airing, at 11 minutes of 60 minutes of content play time, | Watch Live | 48 min left | Wake-Up! with Kimberly | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/91ucoKFaQML._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "Blessed Day Melodies",
+            "details": "currently airing, at 11 minutes of 240 minutes of content play time, | Watch Live | 3hr 48min left | Blessed Day Melodies | 7+",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/81KdwjDKgtL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": "https://www.primevideo.com/auth-redirect"
+        },
+        {
+            "title": "Morning Rejoice",
+            "details": "currently airing, at 11 minutes of 240 minutes of content play time, | Watch Live | 3hr 48min left | Morning Rejoice | 7+",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/81qHj+u3+uL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": "https://www.primevideo.com/auth-redirect"
+        },
+        {
+            "title": "Joel Osteen Weekly",
+            "details": "currently airing, at 16 minutes of 31 minutes of content play time, | Watch Live | 15 min left | Joel Osteen Weekly | Unshakeable Faith | 7+",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/81ELkILhaGL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "In Touch with Charles Stanley",
+            "details": "currently airing, at 1 minutes of 66 minutes of content play time, | Watch Live | 1hr 5min left | In Touch with Charles Stanley | ALL",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/91XPmSGMcKL._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        },
+        {
+            "title": "From the Pulpit",
+            "details": "currently airing, at 28 minutes of 55 minutes of content play time, | Watch Live | 26 min left | From the Pulpit | The Power Of A Place | 7+",
+            "status": "LIVE",
+            "poster": "https://m.media-amazon.com/images/I/91Rv-16EDML._UR1920,1080_FMpng_SX178_FMjpg_.jpg",
+            "url": ""
+        }
+    ]
+}
